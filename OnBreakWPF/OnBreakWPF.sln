@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1062
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BibliotecaClientes", "BibliotecaClientes\BibliotecaClientes.csproj", "{F34CE08A-C36E-4886-9657-DCEB41D52883}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FormularioOnBreak", "..\..\..\Desktop\WPF VISUAL STUDIO\FormOnBreak\WpfApp1\FormularioOnBreak.csproj", "{741B4EE6-AEC8-4FC2-977C-D5147D75C720}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F34CE08A-C36E-4886-9657-DCEB41D52883}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F34CE08A-C36E-4886-9657-DCEB41D52883}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F34CE08A-C36E-4886-9657-DCEB41D52883}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F34CE08A-C36E-4886-9657-DCEB41D52883}.Release|Any CPU.Build.0 = Release|Any CPU
+		{741B4EE6-AEC8-4FC2-977C-D5147D75C720}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{741B4EE6-AEC8-4FC2-977C-D5147D75C720}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{741B4EE6-AEC8-4FC2-977C-D5147D75C720}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{741B4EE6-AEC8-4FC2-977C-D5147D75C720}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E48826CF-AB1A-4CA3-88DD-951AE9343B33}
+	EndGlobalSection
+EndGlobal
