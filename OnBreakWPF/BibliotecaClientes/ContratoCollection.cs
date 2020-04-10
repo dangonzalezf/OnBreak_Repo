@@ -8,6 +8,7 @@ namespace BibliotecaClientes
 {
     public class ContratoCollection: List <Contrato>
     {
+        //
         List<Contrato> RegContratos = new List<Contrato>();
     }
 }
