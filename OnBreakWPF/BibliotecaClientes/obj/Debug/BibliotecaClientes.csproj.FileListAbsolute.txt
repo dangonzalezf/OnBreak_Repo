@@ -1,0 +1,6 @@
+C:\Users\dango\source\repos\OnBreakWPF\BibliotecaClientes\bin\Debug\BibliotecaClientes.dll
+C:\Users\dango\source\repos\OnBreakWPF\BibliotecaClientes\bin\Debug\BibliotecaClientes.pdb
+C:\Users\dango\source\repos\OnBreakWPF\BibliotecaClientes\obj\Debug\BibliotecaClientes.csprojAssemblyReference.cache
+C:\Users\dango\source\repos\OnBreakWPF\BibliotecaClientes\obj\Debug\BibliotecaClientes.csproj.CoreCompileInputs.cache
+C:\Users\dango\source\repos\OnBreakWPF\BibliotecaClientes\obj\Debug\BibliotecaClientes.dll
+C:\Users\dango\source\repos\OnBreakWPF\BibliotecaClientes\obj\Debug\BibliotecaClientes.pdb
